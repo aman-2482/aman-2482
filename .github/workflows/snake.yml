@@ -5,6 +5,9 @@ on:
     - cron: "0 */12 * * *"
   workflow_dispatch:
 
+permissions:
+  contents: write   # 👈 THIS FIXES IT
+
 jobs:
   generate:
     runs-on: ubuntu-latest
@@ -14,6 +17,7 @@ jobs:
           github_user_name: aman-2482
           outputs: |
             dist/snake.svg
+
       - uses: crazy-max/ghaction-github-pages@v3
         with:
           target_branch: output
