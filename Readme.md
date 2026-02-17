@@ -120,10 +120,11 @@ Real-time ordering system with dynamic menu management
 ## 🐍 Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aman-2482&show_icons=true&theme=github_dark" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aman-2482&theme=github-dark&hide_border=true&area=true" />
 </p>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/aman-2482/aman-2482/output/snake.svg" />
 </p>
+
 
