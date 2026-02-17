@@ -94,17 +94,6 @@ Real-time ordering system with dynamic menu management
 
 ---
 
-## 🐍 Contribution Activity
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/aman-2482/aman-2482/output/snake.svg" alt="snake animation"/>
-</p>
-
-> ⚠️ To enable the snake animation, you must add a GitHub Action.  
-If you want, I can give you a 1-click setup.
-
----
-
 ## 🤝 Connect With Me
 
 <p align="center">
