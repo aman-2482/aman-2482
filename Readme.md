@@ -120,5 +120,5 @@ Real-time ordering system with dynamic menu management
 ## 🐍 Contribution Activity
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/aman-2482/aman-2482/output/snake.svg" />
+  <img src="https://github-readme-stats.vercel.app/api?username=aman-2482&show_icons=true&theme=transparent"/>
 </p>
