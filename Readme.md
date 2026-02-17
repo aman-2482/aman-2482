@@ -125,6 +125,7 @@ Real-time ordering system with dynamic menu management
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/aman-2482/aman-2482/output/snake.svg" />
+
 </p>
 
 
