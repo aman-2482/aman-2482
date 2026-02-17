@@ -117,15 +117,19 @@ Real-time ordering system with dynamic menu management
 <p align="center">
 <strong>Open to Remote Opportunities • Collaborations • Innovative Projects</strong>
 </p>
-## 🐍 Contribution Activity
+## 📊 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aman-2482&theme=github-dark&hide_border=true&area=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aman-2482&theme=github-dark&area=true&hide_border=true" />
 </p>
+
+---
+
+## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/aman-2482/aman-2482/output/snake.svg" />
-
+  <img src="https://raw.githubusercontent.com/aman-2482/aman-2482/output/github-contribution-grid-snake-dark.svg" />
 </p>
+
 
 
