@@ -128,3 +128,8 @@ If you want, I can give you a 1-click setup.
 <p align="center">
 <strong>Open to Remote Opportunities • Collaborations • Innovative Projects</strong>
 </p>
+## 🐍 Contribution Activity
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/aman-2482/aman-2482/output/snake.svg" />
+</p>
