@@ -35,7 +35,7 @@ Building scalable mobile & web applications with modern technologies and AI-driv
 ## 🏢 Professional Experience
 
 ### Software Developer — VoyageXai (Dec 2024 – Present)
-- Built 3+ scalable applications using Flutter & Firebase
+- Built 6+ scalable applications using Flutter & Firebase
 - Implemented AI-driven features improving engagement by 25%
 - Reduced bugs by 30% through testing across 20+ modules
 
